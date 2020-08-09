@@ -1,0 +1,9 @@
+[Unit]
+Description=Configure LEDS
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh /root/configure-leds.sh
+
+[Install]
+WantedBy=multi-user.target

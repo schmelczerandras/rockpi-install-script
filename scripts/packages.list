@@ -1,0 +1,18 @@
+rockchip-overlay
+linux-4.4-rockpis-latest
+
+# freezes during installation
+# rockpis-dtbo
+
+rtl8723ds-firmware
+rockchip-adbd
+resize-assistant
+htop
+nano
+binutils
+zsh
+git
+certbot
+curl
+neofetch
+python-certbot-nginx

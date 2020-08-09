@@ -1,0 +1,1 @@
+rockpis_debian_buster_minimal_arm64_20200615_1225-gpt.img.gz filter=lfs diff=lfs merge=lfs -text

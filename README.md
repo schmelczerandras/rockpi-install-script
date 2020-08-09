@@ -14,7 +14,7 @@
 ## Usage
 
 1. Burn the [OS image](rockpis_debian_buster_minimal_arm64_20200615_1225-gpt.img.gz) to a Micro SD card
-2. Set the variables inside [setup-remote.sh](setup-remote.sh)
+2. Set the variables inside [setup-remote.sh](setup-remote.sh) and [scripts/setup.sh](scripts/setup.sh)
 3. Change the public key inside of [scripts/ssh/key.pub](scripts/ssh/key.pub) to be yours.
 4. Modify the scripts based on your specific needs
 5. Get a domain name and configure its DNS entry to point to the device's IP
